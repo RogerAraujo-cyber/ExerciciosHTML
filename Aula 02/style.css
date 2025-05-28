@@ -1,0 +1,14 @@
+h2{
+color: blueviolet;
+font-style: 50px;
+}
+
+.Servicos{
+    color: #a52a2a;
+}
+
+article{
+    /* background-color: rgb(255, 255, 0); */
+    /* background-color: rgba(255, 255, 0, 0.7) */
+    background-color: rgba(137, 43, 226, 0.573);
+}
